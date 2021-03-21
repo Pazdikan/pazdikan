@@ -1,36 +1,49 @@
-#### 👋 Hi there! I'm 15 yo Developer and student.
+## 👋 Hi there!
+![](https://komarev.com/ghpvc/?username=pazdikan&style=flat-square&color=blueviolet)<br>
+<details>
+ <summary><b>🏆  Stats</b></summary>
+ <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pazdikan&margin-h=25&column=7&theme=juicyfresh">
+ </p>
+ 
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pazdikan&show_icons=true&theme=radical&count_private=true&custom_title=My Stats&include_all_commits=true">
+ </p>
+ 
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazdikan&langs_count=6&theme=radical">
+ </p>
+ 
+</details>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pazdikan&show_icons=true&theme=radical)
+<details>
+ <summary><b>🧰  Tools</b></summary>
+IDE:<br>
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code"> 
+<br><br>
+Languages:<br>
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3"> 
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=ffffff"> 
+<br><br>
+Frameworks:<br>
+<img src="https://img.shields.io/badge/-Nodejs-darkgreen?style=flat-square&logo=Node.js&logoColor=ffffff"> 
+<br><br>
+Other:<br>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> 
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"> 
+<img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff">
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazdikan&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+ <summary><b>✨  Links</b></summary>
+<p><a href="https://www.youtube.com/channel/UCK08eZq3IsbAbzF0T6bs6xg">YouTube Dev</a><br>
+<a href="https://discord.gg/D39CBpA5KW">Discord</a><br>
+<a href="https://www.instagram.com/pazdikan.eksdi">Instagram</a><br>
+<a href="https://twitter.com/pazdikan">Twitter</a></p>
+</details>
 
-### Socials:
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![Twitter][1.1]][1]
-[![Discord][2.1]][2]
-[![Youtube][3.1]][2]
-[![Github][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
-[2.1]: https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-32.png (Discord)
-[3.1]: https://cdn4.iconfinder.com/data/icons/miu-social/60/youtube-social-media-32.png (Youtube)
-[6.1]: http://i.imgur.com/0o48UoR.png (Github)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/pazdikan
-[2]: https://discordapp.com/users/756220821508194354
-[3]: https://www.youtube.com/channel/UCK08eZq3IsbAbzF0T6bs6xg/
-[6]: http://www.github.com/pazdikan
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<details>
+ <summary><b>🎵  Spotify</b></summary>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=7u1ityx4k5dpz30f4mgaxnwnj&cover_image=true&theme=default">
+</details>
