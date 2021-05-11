@@ -24,16 +24,25 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 19 mins        ██████████████░░░░░░░░░░░   58.66% 
+CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
+Groovy                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
+Git Config               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 21 mins        ███████████████░░░░░░░░░░   59.77% 
+Eclipse                  54 mins             ██████████░░░░░░░░░░░░░░░   40.23%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Client                   1 hr 1 min          ███████████░░░░░░░░░░░░░░   45.49% 
+Minecraft-client         30 mins             █████░░░░░░░░░░░░░░░░░░░░   22.36% 
+hypixel-stats            20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
+Unknown Project          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+intellij                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
