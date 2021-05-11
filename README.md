@@ -3,9 +3,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7u1ityx4k5dpz30f4mgaxnwnj&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=7u1ityx4k5dpz30f4mgaxnwnj&redirect=true)
 
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pazdikan&show_icons=true&theme=radical&count_private=true&custom_title=My Stats&include_all_commits=true">
- </p>
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
 
