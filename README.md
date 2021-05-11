@@ -1,7 +1,8 @@
 ## 👋 Hi there!
-![](https://komarev.com/ghpvc/?username=pazdikan&style=flat-square&color=blueviolet)<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7u1ityx4k5dpz30f4mgaxnwnj&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=7u1ityx4k5dpz30f4mgaxnwnj&redirect=true)
+
+![](https://komarev.com/ghpvc/?username=pazdikan&style=flat-square&color=blueviolet)<br>
 
  <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610022%20lines%20of%20code-blue)
