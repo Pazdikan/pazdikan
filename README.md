@@ -24,25 +24,25 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     1 hr 19 mins        ██████████████░░░░░░░░░░░   58.66% 
-CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-Groovy                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-Git Config               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+Java                     6 hrs 59 mins       ██████████████████████░░░   88.21% 
+CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+Groovy                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
+Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-IntelliJ                 1 hr 21 mins        ███████████████░░░░░░░░░░   59.77% 
-Eclipse                  54 mins             ██████████░░░░░░░░░░░░░░░   40.23%
+Eclipse                  6 hrs 34 mins       ████████████████████░░░░░   82.95% 
+IntelliJ                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05%
 
 🐱‍💻 Projects: 
-Client                   1 hr 1 min          ███████████░░░░░░░░░░░░░░   45.49% 
-Minecraft-client         30 mins             █████░░░░░░░░░░░░░░░░░░░░   22.36% 
-hypixel-stats            20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
-Unknown Project          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
-intellij                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Client                   6 hrs 41 mins       █████████████████████░░░░   84.45% 
+Minecraft-client         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+hypixel-stats            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
+Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+intellij                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.0%
+Windows                  7 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
