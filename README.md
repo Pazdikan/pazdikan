@@ -24,25 +24,26 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     15 hrs 27 mins      █████████████████░░░░░░░░   69.19% 
-TypeScript               3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
-Git Config               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+Java                     15 hrs 27 mins      ████████████████░░░░░░░░░   66.64% 
+TypeScript               3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
+JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
+JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
+Git Config               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 🔥 Editors: 
-Eclipse                  13 hrs 54 mins      ███████████████░░░░░░░░░░   62.2% 
-IntelliJ                 8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.8%
+Eclipse                  13 hrs 54 mins      ███████████████░░░░░░░░░░   59.91% 
+IntelliJ                 8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.41% 
+WebStorm                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
 
 🐱‍💻 Projects: 
-Client                   15 hrs 12 mins      █████████████████░░░░░░░░   68.03% 
-ts-bot                   3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
-dede-eris                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
-Unknown Project          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-Minecraft-client         32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+Client                   15 hrs 12 mins      ████████████████░░░░░░░░░   65.52% 
+ts-bot                   4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+dede-eris                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
+Unknown Project          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
+Minecraft-client         32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
 💻 Operating System: 
-Windows                  22 hrs 20 mins      █████████████████████████   100.0%
+Windows                  23 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
