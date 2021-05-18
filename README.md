@@ -24,26 +24,26 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     15 hrs 27 mins      ████████████████░░░░░░░░░   66.64% 
-TypeScript               3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
-JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
-JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
-Git Config               34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+Java                     14 hrs 8 mins       ████████████████░░░░░░░░░   64.04% 
+TypeScript               3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
+JavaScript               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
+Git Config               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
 
 🔥 Editors: 
-Eclipse                  13 hrs 54 mins      ███████████████░░░░░░░░░░   59.91% 
-IntelliJ                 8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.41% 
-WebStorm                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
+Eclipse                  12 hrs 59 mins      ██████████████░░░░░░░░░░░   58.85% 
+IntelliJ                 7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.15% 
+WebStorm                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
 
 🐱‍💻 Projects: 
-Client                   15 hrs 12 mins      ████████████████░░░░░░░░░   65.52% 
-ts-bot                   4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.9% 
-dede-eris                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-Unknown Project          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
-Minecraft-client         32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+Client                   14 hrs 10 mins      ████████████████░░░░░░░░░   64.21% 
+ts-bot                   5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85% 
+dede-eris                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+dede-ts                  43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
+easy-tickets             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 💻 Operating System: 
-Windows                  23 hrs 12 mins      █████████████████████████   100.0%
+Windows                  22 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
