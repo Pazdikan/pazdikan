@@ -24,26 +24,26 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Java                     14 hrs 8 mins       ████████████████░░░░░░░░░   64.04% 
-TypeScript               3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
-JavaScript               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
-Git Config               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
+TypeScript               9 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.97% 
+Java                     8 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   38.35% 
+JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+JSON                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Git Config               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
 
 🔥 Editors: 
-Eclipse                  12 hrs 59 mins      ██████████████░░░░░░░░░░░   58.85% 
-IntelliJ                 7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.15% 
-WebStorm                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
+WebStorm                 7 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   34.72% 
+Eclipse                  7 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.16% 
+IntelliJ                 7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.12%
 
 🐱‍💻 Projects: 
-Client                   14 hrs 10 mins      ████████████████░░░░░░░░░   64.21% 
-ts-bot                   5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85% 
+Client                   8 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   38.52% 
+dede-ts                  6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.97% 
+ts-bot                   5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83% 
 dede-eris                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
-dede-ts                  43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
 easy-tickets             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 
 💻 Operating System: 
-Windows                  22 hrs 4 mins       █████████████████████████   100.0%
+Windows                  22 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
