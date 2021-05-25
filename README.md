@@ -24,21 +24,20 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               10 hrs 1 min        █████████████████████░░░░   85.81% 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.19% 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
+TypeScript               12 hrs 40 mins      ██████████████████████░░░   89.97% 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
+JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-WebStorm                 11 hrs 41 mins      █████████████████████████   100.0%
+WebStorm                 14 hrs 4 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-dede-ts                  11 hrs 16 mins      ████████████████████████░   96.44% 
-ts-bot                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
+dede-ts                  14 hrs 4 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  11 hrs 41 mins      █████████████████████████   100.0%
+Windows                  14 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
