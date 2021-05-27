@@ -24,23 +24,23 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               8 hrs 43 mins       ██████████████████████░░░   89.78% 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+TypeScript               11 hrs 42 mins      ███████████████████████░░   91.7% 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.52% 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-WebStorm                 9 hrs 40 mins       ████████████████████████░   99.48% 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+WebStorm                 12 hrs 43 mins      █████████████████████████   99.61% 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
 🐱‍💻 Projects: 
-dede-ts                  9 hrs 40 mins       ████████████████████████░   99.48% 
-keylogger                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+dede-ts                  12 hrs 43 mins      █████████████████████████   99.61% 
+keylogger                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-Windows                  9 hrs 43 mins       █████████████████████████   100.0%
+Windows                  12 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
