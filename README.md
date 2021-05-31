@@ -24,24 +24,24 @@
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               11 hrs 50 mins      ████████████████████░░░░░   80.27% 
-HTML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-CSS                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+TypeScript               8 hrs 27 mins       ███████████████████░░░░░░   78.28% 
+HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 🔥 Editors: 
-WebStorm                 14 hrs 41 mins      █████████████████████████   99.66% 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+WebStorm                 10 hrs 44 mins      █████████████████████████   99.54% 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🐱‍💻 Projects: 
-dede-ts                  12 hrs 40 mins      █████████████████████░░░░   85.93% 
-discord-info             1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
-keylogger                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+dede-ts                  8 hrs 43 mins       ████████████████████░░░░░   80.79% 
+discord-info             1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+keylogger                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 💻 Operating System: 
-Windows                  14 hrs 44 mins      █████████████████████████   100.0%
+Windows                  10 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
