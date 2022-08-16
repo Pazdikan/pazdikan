@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hi, I'm Michał Jurjewicz!
 
-🔧 I’m currently working on [City of Dreams](https://twitter.com/cityofdreamsdev) game.
-🔧 I’m currently working on [Skywars for Bukkit](https://github.com/pazdikan/skywars) game.
+🎮 I’m currently working on [City of Dreams](https://twitter.com/cityofdreamsdev) - a drug dealing game. \
+⚔ I’m currently working on [Skywars](https://github.com/pazdikan/skywars) - a minigame plugin for Bukkit.
 
 ![GitHub Snake Light](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
