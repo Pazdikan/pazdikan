@@ -3,9 +3,6 @@
 🎮 I’m currently working on [City of Dreams](https://twitter.com/cityofdreamsdev) - a drug dealing game. \
 ⚔ I’m currently working on [Skywars](https://github.com/pazdikan/skywars) - a minigame plugin for Bukkit.
 
-![GitHub Snake Light](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 <!-- <table><tr><td valign="top" width="33%">
 
 ### Languages
@@ -78,6 +75,8 @@
 </div>
 
 ## Statistics
+![GitHub Snake Light](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pazdikan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="left" style="width: 100%;" />
 
