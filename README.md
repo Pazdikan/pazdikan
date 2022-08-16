@@ -3,8 +3,8 @@
 🔧 I’m currently working on [City of Dreams](https://twitter.com/cityofdreamsdev) game.
 🔧 I’m currently working on [Skywars for Bukkit](https://github.com/pazdikan/skywars) game.
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- <table><tr><td valign="top" width="33%">
 
