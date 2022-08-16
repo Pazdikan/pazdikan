@@ -61,9 +61,6 @@
 <a href="https://dev.to/pazdikan" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/pazdikan" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.youtube.com/user/pazdikan" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
@@ -75,8 +72,6 @@
 </div>
 
 ## Statistics
-![GitHub Snake Light](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pazdikan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="left" style="width: 100%;" />
 
@@ -85,6 +80,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazdikan&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=pazdikan&theme=onestar&no-bg=true&no-frame=true&margin-w=1" align="left" style="width: 100%;" /> -->
+
+<img src="https://github.com/Pazdikan/pazdikan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" align="left" style="width: 100%" />
 
 <details>
 <summary style="text-align: center; font-size: 18px;">Statistics directly from code editors</summary>
