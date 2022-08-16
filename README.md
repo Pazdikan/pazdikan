@@ -85,7 +85,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazdikan&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=pazdikan&theme=onestar&no-bg=true&no-frame=true&margin-w=1" align="left" style="width: 100%;" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=pazdikan&theme=onestar&no-bg=true&no-frame=true&margin-w=1" align="left" style="width: 100%;" /> -->
 
 <details>
 <summary style="text-align: center; font-size: 18px;">Statistics directly from code editors</summary>
