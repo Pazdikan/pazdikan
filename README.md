@@ -55,16 +55,17 @@ Sunday       37 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               █████████████████████░░░░   85.27% 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.73%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DeDe Reborn              1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
