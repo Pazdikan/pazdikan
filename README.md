@@ -55,17 +55,16 @@ Sunday       37 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-JavaScript               1 hr 38 mins        █████████████████████████   99.69% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hypixel-player-spying    1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
