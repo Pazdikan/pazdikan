@@ -3,7 +3,7 @@
 
 <div align="center">
 
-💊 My main project is [City of Dreams](https://twitter.com/cityofdreamsdev) - a drug dealing game. 💊 \
+🏙 My main project is [City of Dreams](https://twitter.com/cityofdreamsdev) - a cyberpunk fixer simulator. 🏙 \
 ⚔ I'm also warking on [Skywars](https://github.com/pazdikan/skywars) - a minigame plugin for Bukkit. ⚔
 
 <h1> </h1>
