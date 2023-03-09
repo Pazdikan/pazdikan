@@ -3,12 +3,11 @@
 
 <div align="center">
 
-🏙 My main project is [City of Dreams](https://twitter.com/cityofdreamsdev) - a cyberpunk fixer simulator. 🏙 \
-⚔ I'm also warking on [Skywars](https://github.com/pazdikan/skywars) - a minigame plugin for Bukkit. ⚔
+Working on multiple projects at once, that's why I can't finish shit 💀
 
 <h1> </h1>
-<p><a href="https://github.com/pazdikan/skywars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pazdikan&amp;repo=skywars&amp;theme=dark" alt="Readme Card"></a>
-<a href="https://github.com/pazdikan/dank-farmer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pazdikan&amp;repo=dank-farmer&amp;theme=dark" alt="Readme Card"></a></p>
+<p><a href="https://github.com/pazdikan/rottweiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pazdikan&amp;repo=rottweiler&amp;theme=dark" alt="Readme Card"></a>
+<a href="https://github.com/pazdikan/husky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pazdikan&amp;repo=husky&amp;theme=dark" alt="Readme Card"></a></p>
 
 
 
