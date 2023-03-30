@@ -6,8 +6,8 @@
 Working on multiple projects at once, that's why I can't finish shit 💀
 
 <h1> </h1>
-<p><a href="https://github.com/pazdikan/rottweiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pazdikan&amp;repo=rottweiler&amp;theme=dark" alt="Readme Card"></a>
-<a href="https://github.com/pazdikan/husky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pazdikan&amp;repo=husky&amp;theme=dark" alt="Readme Card"></a></p>
+<p>
+<a href="https://github.com/pazdikan/skywars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pazdikan&amp;repo=husky&amp;theme=dark" alt="Readme Card"></a></p>
 
 
 
