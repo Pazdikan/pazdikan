@@ -1,5 +1,7 @@
-
-
+### 👋 Hi, I'm Mike!
+🎮 I'm working on my cyberpunk-themed, text-based game about working as a [fixer](https://cyberpunk.fandom.com/wiki/Fixer).\
+🌐 In my free time I translate various projects to Polish.\
+<br>
 
 <div align="center">
 
