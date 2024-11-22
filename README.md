@@ -1,12 +1,5 @@
 ### 👋 Hi, I'm Mike!
-🎮 I'm working on my cyberpunk-themed, text-based game about working as a [fixer](https://cyberpunk.fandom.com/wiki/Fixer).\
-🌐 In my free time I translate various projects to Polish.\
+🎮 I'm working on my cyberpunk-themed, text-based game about working as a [fixer](https://github.com/pazdikan/fixer).\
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pazdikan&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazdikan&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
-
-</div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tydmo1MTEzM2tjZ2Q0aHp1aDFuNmhzM2ZlMTRjMncwZzJya2tqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e7fOboAZPMxGZKJCls/giphy.webp" style="width: 100%"/>
